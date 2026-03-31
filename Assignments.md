@@ -3,10 +3,10 @@
 # 1 Certification Requirement
 > - AI Fluency for Students
 >
-> Kindly submit the verification link here 
+> [https://verify.skilljar.com/c/kb5svcuyfwec]
 > - Introduction to Agent Skills
 >
-> Kindly submit the verification link here
+> [https://verify.skilljar.com/c/8vxs3et72hf6]
 > 
 > Kindly upload the certifications PDF in Google Drive Link
 
@@ -14,33 +14,19 @@
 > Personal Portfolio Project
 >
 > - Kindly submit the GitHub Repo URL
->
+>   [https://github.com/Meganandhitha/Modern-Software-]
 > - Kindly submit the Vercel Deployment URL
->
+>   [modern-software-xi.vercel.app]
 > - Kindly submit the GitHub Pages (Documentation) URL
+> - [https://meganandhitha.github.io/Modern-Software-/]
 
 # 3 Team Project: AI Full Stack Application
-> Team Project: AI Full Stack Application
->
-> - Kindly submit the GitHub Repo URL
->
-> - Kindly submit the Live Application URL (Domain)
->
-> - Kindly submit the GitHub Pages (Documentation) URL
+Team Project: AI Full Stack Application
+> - [GitHub Repo](https://github.com/RenPrav/BugBuddy)
+> - [Deployment URL](https://bugbuddy.codewithpraveen.dev/)
+> - [GitHub Pages](https://renprav.github.io/BugBuddy/)
 
 # 4 Linkedin Post
-> Submit the LinkedIn post URL
-> 
-> [LinkedIn post URL]
 
-## For Second Year Buddies
+> https://www.linkedin.com/feed/update/urn:li:activity:7444628975899041792/?originTrackingId=%2B58sJujy09u1rUj%2F8AywiQ%3D%3D
 
-# 5 Certification Requirement
-> - Introduction to Model Context Protocol
->
-> Kindly submit the verification link here 
-> 
-> Kindly upload the certifications PDF in Google Drive Link
-
-# 6 GitHub Profile README
-> Kindly submit your GitHub Profile README URL
